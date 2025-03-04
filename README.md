@@ -1,4 +1,4 @@
-# API-Gateway-Lambda-DynamoDB
+# Serverless computing such as using API-Gateway-Lambda-DynamoDB versus Terraform in the context of IaC
 
 We have made a study on the differences between Serverless Framework and Terraform in the context of Infrastructure as Code (IaC) by considering various factors:
 ________________________________________
@@ -54,7 +54,12 @@ In many cases, using both together can provide the best of both worlds, where Te
 References
 [1] Accelerated Cloud Infrastructure Development Using Terraform  by Dr.Vivekananda Jayaram, Srivenkateswara Reddy Sankiti, Manjunatha Sughaturu Krishnappa,
 https://www.jetir.org/papers/JETIR2409571.pdf
+
 [2] Survey on serverless computing by Hassan B. Hassan, Saman A. Barakat & Qusay I. Sarhan 
+https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-021-00253-7
+
+
 [3] Serverless computing: a security perspective
-Serverless computing: a security perspective | Journal of Cloud Computing | Full Text
+https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-022-00347-w
+
 
